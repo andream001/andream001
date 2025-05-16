@@ -20,42 +20,13 @@ Quando não estou imerso em projetos tecnológicos, me encontro capturando a bel
 
 - **Linguagens:** Python, C  
 - **Especializações:** Inteligência Artificial, Machine Learning, Redes Neurais  
-- **Ferramentas & Tecnologias:** [Inclua aqui outras ferramentas que você utiliza, se houver]
+- **Ferramentas & Tecnologias:**
 
 ---
 
-## Projetos & Experimentos
 
-- [Projeto 1](#)  
-  *Onde a inovação se encontra com a filosofia em cada linha de código.*  
-- [Projeto 2](#)  
-  *Um experimento audacioso que une lógica, arte e o desafio constante do desconhecido.*  
-- [Mais Projetos](#)  
-  *Explore minha coleção de ideias e experimentos – cada repositório tem uma história para contar.*
 
----
 
-## Minhas Fotos
-
-Alguns cliques que capturam minha visão do mundo:
-  
-![Paisagem 1](https://via.placeholder.com/400x200.png?text=Sua+Foto+1)  
-![Paisagem 2](https://via.placeholder.com/400x200.png?text=Sua+Foto+2)
-
-Sinta-se à vontade para explorar minha galeria de imagens onde cada foto conta uma história.
-
----
-
-## Universo, Animais e Biologia
-
-A paixão pela astronomia, mundo animal e biologia também faz parte da minha essência:
-
-- **Astronomia:** Fascinado pelos mistérios do cosmos, sempre busco imagens e informações que expandem nossa visão do universo.  
-  ![Astronomia](https://via.placeholder.com/400x200.png?text=Astronomia)
-- **Mundo Animal & Biologia:** A complexidade e a beleza dos seres vivos me inspiram a entender melhor a natureza e nossa conexão com ela.  
-  ![Mundo Animal](https://via.placeholder.com/400x200.png?text=Mundo+Animal)
-
----
 
 ## Estatísticas do GitHub
 
